@@ -3,5 +3,8 @@
 }
 
 .div_unit_selection.fabrication {
-    background: -webkit-linear-gradient(top, rgba(200,200,0,1) 0%,rgba(200,200,0,1) 10%,rgba(200,200,0,0.9) 35%,rgba(200,200,0,0.8) 100%); 
+    background-color: #000;
+    background-image: -webkit-linear-gradient(315deg, rgba(255, 255, 0, .5) 25%, transparent 25%,
+      transparent 50%, rgba(255, 255, 0, .5) 50%, rgba(255, 255, 0, .5) 75%,
+      transparent 75%, transparent);
 }
