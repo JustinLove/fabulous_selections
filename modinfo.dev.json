@@ -1,0 +1,22 @@
+{
+  "author": "wondible",
+  "build": "61941",
+  "category": ["in-game", "ui"],
+  "context": "client",
+  "date": "2014/02/26",
+  "description": "Highlight commanders in the selected unit icons.",
+  "display_name": "Selected Commander",
+  "enabled": true,
+  "forum": null,
+  "id": "selected_commander",
+  "identifier": "com.wondible.pa.selected_commanderr",
+  "live_game": [
+    "coui://ui/mods/selected_commander/selected_commander.css",
+    "coui://ui/mods/selected_commander/selected_commander.js"
+  ],
+  "priority": 100,
+  "requires": [],
+  "signature": "not yet implemented",
+  "version": "0.0.0"
+}
+
