@@ -1,9 +1,9 @@
 {
   "author": "wondible",
-  "build": "61941",
+  "build": "62110",
   "category": ["in-game", "ui"],
   "context": "client",
-  "date": "2014/02/26",
+  "date": "2014/02/28",
   "description": "Highlight commanders in the selected unit icons.",
   "display_name": "Selected Commander",
   "enabled": true,
