@@ -7,7 +7,7 @@
   "description": "Highlight commanders in the selected unit icons.",
   "display_name": "Selected Commander",
   "enabled": true,
-  "forum": null,
+  "forum": "https://forums.uberent.com/threads/wip-selected-commander.56931/",
   "id": "selected_commander",
   "identifier": "com.wondible.pa.selected_commanderr",
   "live_game": [
