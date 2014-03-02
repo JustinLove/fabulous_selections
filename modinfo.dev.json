@@ -10,6 +10,7 @@
   "forum": "https://forums.uberent.com/threads/wip-selected-commander.56931/",
   "id": "fabulous_selections",
   "identifier": "com.wondible.pa.fabulous_selections",
+  "icon": "http://pamods.github.io/icons/fabulous_selections.png",
   "live_game": [
     "coui://ui/mods/fabulous_selections/fabulous_selections.css",
     "coui://ui/mods/fabulous_selections/fabulous_selections.js"
@@ -17,6 +18,6 @@
   "priority": 100,
   "requires": [],
   "signature": "not yet implemented",
-  "version": "0.0.0"
+  "version": "1.0.0"
 }
 
