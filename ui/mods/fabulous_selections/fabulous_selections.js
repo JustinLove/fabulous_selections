@@ -1,9 +1,7 @@
 (function() {
   model.fabulousSelectionClasses = function(type) {
-    // either knockout or the dom remove the rest of the illegal characters
-    var path = type.replace("pa/units", "").replace(".json", "")
-    var fab = type.match('fabrication') ? ' fabrication' : ''
-    return path + fab
+    var path = type.replace("pa/units", "").replace(".json", "").replace(/[\/_]/g, " ")
+    return path
   }
 
   var hack = 'css:$parent.fabulousSelectionClasses(type)'
