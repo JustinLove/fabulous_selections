@@ -1,5 +1,10 @@
 # Fabulous Selections
 
+## 2.1.0
+
+- Remove stripes from fabrication barge
+- Add stripes to support commander
+
 ## 2.0.1
 
 - Removed accidental console logs
